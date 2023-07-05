@@ -1,0 +1,13 @@
+.buscador{
+    border: 1px dotted rgb(83, 135, 191);
+    border-radius: 5%;
+}
+
+.tarjeta{
+    border: none;
+    color:white;
+}
+
+.img{
+    border-radius: 50%;
+}
